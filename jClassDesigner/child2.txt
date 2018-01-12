@@ -1,0 +1,5 @@
+package child
+
+public class child2 {
+
+public String namepublic int agepublic String address

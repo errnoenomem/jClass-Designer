@@ -1,0 +1,72 @@
+// CSS CLASS FOR OUR BIG PANES
+.bordered_pane {
+    -fx-background-color: #74AFAD;
+    -fx-padding: 15;
+    -fx-spacing: 0;
+}
+.right_pane{
+    -fx-background-color: #74AFAD;
+    -fx-padding: 2;
+    -fx-spacing: 2;
+    -fx-fit-to-height: true;
+    -fx-fit-to-width: true;
+}
+.center_pane{   
+    -fx-hbar-policy: always;
+    -fx-vbar-policy: always;
+}
+.class_font_size{
+    -fx-font-size:22;
+    -fx-font-weight:bold;
+}
+.font_size{
+    -fx-font-size: 16;
+    -fx-font-weight:bold;
+}
+.edit_rows{
+    -fx-background-radius: 5.0;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+    -fx-background-color: #558C89;
+}
+.edit_plusminus{
+    -fx-background-color: #558C89;
+    -fx-spacing: 5;
+}
+
+.edit_uml_vbox{
+    -fx-border-style: solid;
+    -fx-border-width: 1px;
+    -fx-border-color: black;
+}
+.edit_vm_box{
+    -fx-border-style: solid;
+    -fx-border-width: 1px;
+    -fx-border-color: black;
+    -fx-background-color: white;
+}
+.edit_renderer{
+    -fx-background-color: #ECECEA;
+}
+.edit_font{
+    -fx-font-color: yellow;
+    -fx-font-size: 10;
+}
+
+
+.file_button {
+    -fx-spacing: 10;
+    -fx-padding: 0;
+    -fx-background-color: #74AFAD;
+    -fx-border-style: solid;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5.0;
+}
+.toolbar_pane {
+    -fx-background-color: #74AFAD;
+    -fx-padding : 5;
+    -fx-spacing : 2;
+}
+.export_box {
+    -fx-spacing: -1;
+}

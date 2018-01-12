@@ -1,0 +1,17 @@
+
+{
+    "diagrams":[
+        {
+            "class_name":"default class name",
+            "package_name":"default package name",
+            "x":201.99999999999994,
+            "y":40.66666666666666,
+            "height":145.0,
+            "width":130.0,
+            "json_variables_array":[
+            ],
+            "json_methods_array":[
+            ]
+        }
+    ]
+}

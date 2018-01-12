@@ -1,0 +1,48 @@
+
+{
+    "diagrams":[
+        {
+            "diagram_type":"interface",
+            "diagram_name":"default class name",
+            "diagram_package":"default package name",
+            "diagram_parents":"default parent",
+            "x_coordinate":499.33333333333337,
+            "y_coordinate":163.33333333333331,
+            "diagram_height":106.0,
+            "diagram_width":205.0,
+            "json_variables_array":[
+                {
+                    "variable_name":"name",
+                    "variable_type":"variable",
+                    "variable_access":"private",
+                    "variable_static":false
+                }
+            ],
+            "json_methods_array":[
+                {
+                    "method_name":"name",
+                    "method_return":"void",
+                    "method_access":"public",
+                    "method_arguments":[
+                        {
+                            "mehtod_argument_name":"",
+                            "method_argument_type":"string"
+                        },
+                        {
+                            "mehtod_argument_name":"",
+                            "method_argument_type":"int"
+                        },
+                        {
+                            "mehtod_argument_name":"",
+                            "method_argument_type":"double"
+                        },
+                        {
+                            "mehtod_argument_name":"",
+                            "method_argument_type":"float"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
